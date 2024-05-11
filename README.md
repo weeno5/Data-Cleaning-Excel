@@ -1,4 +1,7 @@
 # Data-Cleaning-Excel
+
+### This code is only for showcase and not for practical use
+
 This code is for cleaning data in an excel file for a research project on student's mental health.
 The Excel file is private.
 
