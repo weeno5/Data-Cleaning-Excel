@@ -1,3 +1,5 @@
+# This belongs in a seperate file because it is used multiple times in different files
+
 codeRenew = [
              "FamilyIssues",#1
              "AngerIssues",#2
@@ -22,6 +24,8 @@ codeRenew = [
              "OverProtection",#21
              "Trauncy",#22
              "CheckIn",#23
+             
+             # These are manually added words that aren't common in the excel file
              "Crime",#24
              "FeelingBetter",#25
              "SafetyPlan",""#26
